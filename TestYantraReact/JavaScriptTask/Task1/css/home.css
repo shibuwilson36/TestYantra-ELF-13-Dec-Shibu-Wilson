@@ -1,0 +1,106 @@
+
+#search{
+    padding: 14px;
+    background-color: black;
+    
+}
+
+#dropdown{
+    margin-left: 647px; 
+}
+#input-search{
+  
+  border-color: transparent;
+  background-color: rgba(58, 58, 58, 0.651);
+  
+}
+#input-search:hover{
+    background-color:white ;
+}
+#create{
+    margin-top: 50px;
+    margin-left: 225px;
+}
+#option{
+    background-color: rgba(46, 46, 157, 0.7);
+    font-size: 29px;
+    color: white;
+    border-radius: 5px;
+    outline: none;
+}
+.block{
+    margin-top: 15px;
+    height: 500px;
+    margin-left: 15px;
+    background-color: white;
+}
+.activity{
+    
+    width: 787px;
+    margin-left: 15px;
+   
+    padding: 5px;
+}
+.activity button{
+    margin: 20px;
+    border: none;
+    background-color: rgba(114, 114, 117, 0.692);
+    color: cornsilk;
+    border-radius: 30px;
+}
+.side-bar{
+    margin-top: 0;
+    height: 290px;
+    background-color: white;
+}
+.myactivity{
+    margin-left: 10px;
+}
+.myactivity:nth-child(1){
+
+    border: none;
+    border-radius: 22px;
+    outline: none;
+    padding: 9px;
+    background-color: rgba(151, 151, 151, 0.);
+    
+    
+    
+}
+.myactivity:nth-child(2){
+   border: none;
+   background-color: transparent;
+   outline: none;
+}
+.myactivity1{
+    border: none;
+    background-color: transparent;
+    outline: none;
+ }
+ #mydrop{
+     border: 1px solid black;
+     background-color:white;
+     border-radius: 21px;
+     padding: 8px;
+     color: gray;
+     text-decoration: none;
+
+ }
+ .mystatic{
+     margin: 8px;
+     color: indigo;
+ }
+ .mystatics{
+    color: indigo;
+ }
+ .fas.fa-circle{
+     color: green;
+     font-size: x-small;
+ }
+ .fas.fa-ellipsis-h{
+     color: grey;
+ }
+ .mycoverpage{
+    background-color: #bcbcbc7e;
+ }
+ 

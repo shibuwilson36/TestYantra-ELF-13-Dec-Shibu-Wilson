@@ -1,0 +1,34 @@
+body {
+    background-color: powderblue;
+}
+
+#clock {
+    border: 2px solid royalblue;
+    width: 100px;
+    border-radius: 240px;
+    padding: 32px;
+    text-align: center;
+    background-color: sandybrown;
+}
+
+#main {
+    padding: 20px;
+    margin-left: 500px;
+}
+
+#setTime {
+    margin-top: 30px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 8px;
+    outline: none;
+}
+
+#button {
+    margin-top: 30px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 8px;
+    background-color: springgreen;
+    outline: none;
+}
